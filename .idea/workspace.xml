@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b11b4ff1-9880-468d-a80c-538640138a01" name="Changes" comment="добавлен foxserver">
+    <list default="true" id="b11b4ff1-9880-468d-a80c-538640138a01" name="Changes" comment="добавлено быстрое создание сервера">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +40,7 @@
     "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "settings.javascript.prettier",
     "show.migrate.to.gradle.popup": "false",
-    "ts.external.directory.path": "/Users/foks/dev/nodejs/modules/notafoks.server/node_modules/typescript/lib"
+    "ts.external.directory.path": "/Applications/IntelliJ IDEA.app/Contents/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -56,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672018893058</updated>
-      <workItem from="1672018894321" duration="4014000" />
+      <workItem from="1672018894321" duration="4091000" />
     </task>
     <task id="LOCAL-00001" summary="иницилизация проекта">
       <created>1672019203323</created>
@@ -79,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672022866646</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="добавлено быстрое создание сервера">
+      <created>1672022925692</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1672022925692</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,7 +106,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="иницилизация проекта" />
     <MESSAGE value="добавлен foxserver" />
-    <option name="LAST_COMMIT_MESSAGE" value="добавлен foxserver" />
+    <MESSAGE value="добавлено быстрое создание сервера" />
+    <option name="LAST_COMMIT_MESSAGE" value="добавлено быстрое создание сервера" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
