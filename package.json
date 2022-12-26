@@ -1,0 +1,21 @@
+{
+  "name": "notafoks.server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "author": "Yakov Foks",
+  "license": "MIT",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "release": "npm run build && npm publish"
+  },
+  "dependencies": {
+    "@types/log4js": "^2.3.5",
+    "log4js": "^6.7.1",
+    "tsc": "^2.0.4",
+    "typescript": "^4.9.4"
+  }
+}
