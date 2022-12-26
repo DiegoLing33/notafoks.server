@@ -1,17 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b11b4ff1-9880-468d-a80c-538640138a01" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notafoks.server.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/logger/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+    <list default="true" id="b11b4ff1-9880-468d-a80c-538640138a01" name="Changes" comment="иницилизация проекта">
+      <change afterPath="$PROJECT_DIR$/src/server/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logger/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +40,10 @@
     "go.import.settings.migrated": "true",
     "last_opened_file_path": "/Users/foks/dev/nodejs/modules/notafoks.server",
     "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "/Users/foks/dev/nodejs/modules/notafoks.server/node_modules/prettier",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "settings.javascript.prettier",
     "show.migrate.to.gradle.popup": "false",
     "ts.external.directory.path": "/Users/foks/dev/nodejs/modules/notafoks.server/node_modules/typescript/lib"
@@ -60,8 +62,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672018893058</updated>
-      <workItem from="1672018894321" duration="301000" />
+      <workItem from="1672018894321" duration="3954000" />
     </task>
+    <task id="LOCAL-00001" summary="иницилизация проекта">
+      <created>1672019203323</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672019203323</updated>
+    </task>
+    <task id="LOCAL-00002" summary="иницилизация проекта">
+      <created>1672019208708</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1672019208708</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,6 +94,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="иницилизация проекта" />
+    <option name="LAST_COMMIT_MESSAGE" value="иницилизация проекта" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
